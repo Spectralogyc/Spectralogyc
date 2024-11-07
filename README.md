@@ -1,14 +1,14 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Ygor Costa and my nickname is "Gatttin" due to a silly nickname haha!
+## My name is Ygor Costa 
 
 <div display="inline-block">
- <p align="left">📚 I'm currently studying C, C# and Ruby to update myself even more!!</p>
- <p align="left">📷 This is my <a href="https://www.instagram.com/akpluggg">Instagram</a>
- <p align="left">📷 This is my <a href="https://www.https://twitter.com/shakenss">Twitter</a> <a>(There are a lot of crazy things haha)</a>
+ <p align="left">📚 I'm currently studying Cybersecurity and Pentest to update myself even more!!</p>
+ <p align="left">📷 This is my <a href="https://www.instagram.com/theyoungycc">Instagram</a>
+ <p align="left">📷 This is my <a href="https://www.https://twitter.com/theyoungyc">Twitter</a> <a>(There are a lot of crazy things haha)</a>
  <p align="left">🎮 I play a lot of games out there! </p>
 </div>
 
-<a href = "mailto:ygordamiao3730@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ygor-costa18" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
+<a href = "mailto:ygorcostax@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ygor-costa18" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
 </div>
 
 
