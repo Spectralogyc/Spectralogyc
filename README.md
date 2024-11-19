@@ -2,15 +2,8 @@
 <p> ## cybersecurity boy. </p>
 
 <div display="inline-block">
- <p align="left">📚 I'm currently studying Cybersecurity and Pentest to update myself even more!!</p>
- <p align="left">📷 This is my <a href="https://www.instagram.com/theyoungycc">Instagram</a>
- <p align="left">📷 This is my <a href="https://www.https://twitter.com/theyoungyc">Twitter</a> <a>(There are a lot of crazy things haha)</a>
- <p align="left">🎮 I play a lot of games out there! </p>
+ <p> My two biggest areas of interest are computers and gaming. Once, when I was young, I opened my laptop and started fiddling with its parts, and that s when I realized how interesting it was. Since then, I began to delve deeper into this topic and became dedicated to ethical hacking, participating in bug bounty programs, pentests, and studying information security analysis. </p>
 </div>
-
-<a href = "mailto:ygorcostax@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ygor-costa18" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
-</div>
-
 
 ## Tools and Technologies:
 
