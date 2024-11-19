@@ -4,7 +4,7 @@
             S   P      E      C         T    R  R  A   A  L      O   O G     Y   C
         SSSSS   P      EEEEE  CCCCC     T    R   R A   A  LLLLL  OOO  GGG    Y   CCCCC
 
-<p> ## cybersecurity boy. </p>
+## cybersecurity boy.
 
 <div display="inline-block">
  <p> My two biggest areas of interest are computers and gaming. Once, when I was young, I opened my laptop and started fiddling with its parts, and that s when I realized how interesting it was. Since then, I began to delve deeper into this topic and became dedicated to ethical hacking, participating in bug bounty programs, pentests, and studying information security analysis. </p>
