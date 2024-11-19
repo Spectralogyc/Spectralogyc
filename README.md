@@ -1,4 +1,9 @@
-<h2> # SPECTRALOGYC </h2>
+ #   SSSSS  PPPP   EEEEE  CCCCC  TTTTT  RRRR    A   L       OOO  GGG  Y   Y  CCCCC
+        S       P   P  E      C         T    R   R  A A   L      O   O G     Y Y  C
+         SSS    PPPP   EEEE   C         T    RRRR  AAAAA  L      O   O GGG    Y   C
+            S   P      E      C         T    R  R  A   A  L      O   O G     Y   C
+        SSSSS   P      EEEEE  CCCCC     T    R   R A   A  LLLLL  OOO  GGG    Y   CCCCC
+
 <p> ## cybersecurity boy. </p>
 
 <div display="inline-block">
